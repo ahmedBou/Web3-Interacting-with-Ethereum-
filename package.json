@@ -1,0 +1,11 @@
+{
+  "name": "jpegdegens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahmedBou/Web3-Interacting-with-Ethereum-.git",
+  "author": "ahmed <ahmedBoutayeb@my.uopeople.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
